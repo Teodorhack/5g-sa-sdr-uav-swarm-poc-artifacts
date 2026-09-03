@@ -1,0 +1,6 @@
+16: oaitun_ue1: <POINTOPOINT,NOARP,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UNKNOWN group default qlen 500
+    link/none 
+    inet 12.1.1.130/24 scope global oaitun_ue1
+       valid_lft forever preferred_lft forever
+    inet6 fe80::d6da:cc75:5df4:72df/64 scope link stable-privacy 
+       valid_lft forever preferred_lft forever

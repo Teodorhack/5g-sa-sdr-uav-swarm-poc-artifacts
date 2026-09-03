@@ -1,0 +1,11 @@
+{
+	"start":	{
+		"connected":	[],
+		"version":	"iperf 3.16",
+		"system_info":	"Linux jue-desktop 5.15.148-tegra #1 SMP PREEMPT Mon Nov 4 13:46:33 CST 2024 aarch64"
+	},
+	"intervals":	[],
+	"end":	{
+	},
+	"error":	"unable to connect to server - server may have stopped running or use a different port, firewall issue, etc.: Connection timed out"
+}

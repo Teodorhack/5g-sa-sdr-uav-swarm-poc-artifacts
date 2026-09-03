@@ -1,0 +1,8 @@
+distance_m,rtt_min_ms,rtt_avg_ms,rtt_max_ms,mdev_ms,loss_pct,n,source
+20,25.764,38.92,45.229,5.198,0.0,20,raw_ping_log
+25,21.028,23.704,29.56,2.119,0.0,20,raw_ping_log
+30,20.321,22.963,25.689,1.546,0.0,20,raw_ping_log
+35,20.733,22.767,24.769,1.316,0.0,20,raw_ping_log
+40,20.677,23.282,25.625,1.472,0.0,20,raw_ping_log
+45,20.414,22.878,25.031,1.526,0.0,20,raw_ping_log
+50,20.3,37.0,139.0,25.2,0.0,20,summary.md (verbatim)
